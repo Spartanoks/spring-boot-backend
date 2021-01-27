@@ -8,6 +8,11 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import lombok.Data;
+import lombok.ToString;
+
+@Data
+@ToString
 @Entity
 @Table(name = "regiones")
 public class Region implements Serializable {
@@ -18,21 +23,7 @@ public class Region implements Serializable {
 
 	private String nombre;
 
-	public Long getId() {
-		return id;
-	}
-
-	public void setId(Long id) {
-		this.id = id;
-	}
-
-	public String getNombre() {
-		return nombre;
-	}
-
-	public void setNombre(String nombre) {
-		this.nombre = nombre;
-	}
+	
 
 	private static final long serialVersionUID = 1L;
 

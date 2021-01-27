@@ -1,0 +1,9 @@
+c:\Java\Projects\spring-boot-backend\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\dao\IClienteDao.java
+c:\Java\Projects\spring-boot-backend\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\entity\Cliente.java
+c:\Java\Projects\spring-boot-backend\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\entity\Region.java
+c:\Java\Projects\spring-boot-backend\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\ClienteServiceImpl.java
+c:\Java\Projects\spring-boot-backend\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\IUploadFileService.java
+c:\Java\Projects\spring-boot-backend\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\IClienteService.java
+c:\Java\Projects\spring-boot-backend\src\main\java\com\bolsadeideas\springboot\backend\apirest\SpringBootBackendApirestApplication.java
+c:\Java\Projects\spring-boot-backend\src\main\java\com\bolsadeideas\springboot\backend\apirest\controllers\ClienteRestController.java
+c:\Java\Projects\spring-boot-backend\src\main\java\com\bolsadeideas\springboot\backend\apirest\models\services\UploadFileServiceImpl.java
